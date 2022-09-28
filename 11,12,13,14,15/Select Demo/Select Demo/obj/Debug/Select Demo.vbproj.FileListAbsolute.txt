@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2015\Projects\Select Demo\Select Demo\bin\Debug\Select Demo.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Select Demo\Select Demo\bin\Debug\Select Demo.exe
+c:\users\asus\documents\visual studio 2015\Projects\Select Demo\Select Demo\bin\Debug\Select Demo.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Select Demo\Select Demo\bin\Debug\Select Demo.xml
+c:\users\asus\documents\visual studio 2015\Projects\Select Demo\Select Demo\obj\Debug\Select_Demo.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\Select Demo\Select Demo\obj\Debug\Select_Demo.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Select Demo\Select Demo\obj\Debug\Select Demo.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Select Demo\Select Demo\obj\Debug\Select Demo.exe
+c:\users\asus\documents\visual studio 2015\Projects\Select Demo\Select Demo\obj\Debug\Select Demo.xml
+c:\users\asus\documents\visual studio 2015\Projects\Select Demo\Select Demo\obj\Debug\Select Demo.pdb

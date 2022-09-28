@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2015\Projects\If Demo\If Demo\bin\Debug\If Demo.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\If Demo\If Demo\bin\Debug\If Demo.exe
+c:\users\asus\documents\visual studio 2015\Projects\If Demo\If Demo\bin\Debug\If Demo.pdb
+c:\users\asus\documents\visual studio 2015\Projects\If Demo\If Demo\bin\Debug\If Demo.xml
+c:\users\asus\documents\visual studio 2015\Projects\If Demo\If Demo\obj\Debug\If_Demo.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\If Demo\If Demo\obj\Debug\If_Demo.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\If Demo\If Demo\obj\Debug\If Demo.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\If Demo\If Demo\obj\Debug\If Demo.exe
+c:\users\asus\documents\visual studio 2015\Projects\If Demo\If Demo\obj\Debug\If Demo.xml
+c:\users\asus\documents\visual studio 2015\Projects\If Demo\If Demo\obj\Debug\If Demo.pdb

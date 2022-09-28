@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\Loops\Loops\bin\Debug\Loops.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Loops\Loops\obj\Debug\Loops.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Loops\Loops\obj\Debug\Loops.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\Loops\Loops\obj\Debug\Loops.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Loops\Loops\obj\Debug\Loops.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Loops\Loops\obj\Debug\Loops.xml
+c:\users\asus\documents\visual studio 2015\Projects\Loops\Loops\bin\Debug\Loops.exe
+c:\users\asus\documents\visual studio 2015\Projects\Loops\Loops\bin\Debug\Loops.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Loops\Loops\bin\Debug\Loops.xml
+c:\users\asus\documents\visual studio 2015\Projects\Loops\Loops\obj\Debug\Loops.exe
+c:\users\asus\documents\visual studio 2015\Projects\Loops\Loops\obj\Debug\Loops.pdb
